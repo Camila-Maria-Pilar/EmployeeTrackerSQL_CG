@@ -49,7 +49,8 @@ The following image shows an example of the Mysql Workbench Schema Tables:
 
 For use guidence, please watch a Walkthrough Video in the folloiwng link:
 
-(https://2u-20.wistia.com/medias/2lnle7xnpk)
+https://drive.google.com/file/d/1XQ1xbXJl7QsOlR-YiTEnGu-gjhZaxG8T/view?usp=sharing
+
 
 
 ## For More Information 
