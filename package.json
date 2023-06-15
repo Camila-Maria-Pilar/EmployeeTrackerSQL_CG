@@ -1,0 +1,15 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "Command-line application to manage a company's employee database",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Camila-Maria-Pilar",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "mysql2": "^2.3.3"
+    }
+}
